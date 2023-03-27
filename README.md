@@ -4,6 +4,14 @@
 
 <p>This project demonstrates how to deploy traditional Active Directory in Azure and manage it effectively. The deployment process includes setting up a virtual network with two server VMs and one client VM, installing Active Directory on the main domain controller, configuring replication to the secondary unit, adding the client VM to the domain, and managing the deployment by creating organizational units, adding users and groups, and configuring group policies, firewall, and password policies.</p>
 
+<h2>Technologies Used</h2>
+<ui>
+<li>Windows server 2019
+<li>Azure
+<li>Active Directory
+<li>Domain Controller 
+</ui>
+
 <h2>Deployment Process</h2>
 <p>This section includes step-by-step instructions on how to deploy traditional Active Directory in Azure and manage it efficiently. </p>
 <ol>
